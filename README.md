@@ -3,6 +3,8 @@
 
 #### I'm a DevOps SRE engineer from France 🇫🇷
 
+<img align='right' src='https://github-readme-stats.vercel.app/api?username=badele' alt='Bruno Adelé'>
+
 - 🏢 I'm currently working at **Seqone**
 - 📙 I’m currently learning **NixOS** and ❤️ it
 - 📣 I preach the **immutable** solutions
@@ -12,11 +14,7 @@
 
 ---
 
-# Tech & Activities
-
-<img align='right' src='https://github-readme-stats.vercel.app/api?username=badele' alt='Bruno Adelé'>
-
-
+# Techs
 
 | **Category** | **Technologies** |
 | - | - |
