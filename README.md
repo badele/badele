@@ -5,7 +5,7 @@
 
 <img align='right' src='https://github-readme-stats.vercel.app/api?username=badele' alt='Bruno Adelé'>
 
-- 🏢 I'm currently working at **Seqone**
+- 🏢 I'm currently working at **SeqOne**
 - 📙 I’m currently learning **NixOS** and ❤️ it
 - 📣 I preach the **immutable** solutions
 - ⚙️ I use daily only the Linux operanting system `
