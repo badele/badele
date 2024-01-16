@@ -52,14 +52,14 @@ jobs:
           plugin_reactions_days: 90
           plugin_reactions_details: count
 
-          plugin_followup: yes
-          plugin_followup_sections: repositories, user
+          # plugin_followup: yes
+          # plugin_followup_sections: repositories, user
 
           plugin_lines: yes
 
           plugin_traffic: yes
 
-          plugin_stargazers: yes
+          # plugin_stargazers: yes
 
           plugin_notable: yes
           plugin_notable_filter: stars:>20
