@@ -235,20 +235,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 1.25mb of code in 764 edited files across 118 commits over last 14 days</small>
+                <small>estimation from 1.25mb of code in 760 edited files across 111 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="188.55696352439602" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="188.55696352439602" y="0" width="125.34782093794409" height="8" fill="#f0a9f0"/>
-                    <rect mask="url(#languages-bar)" x="313.9047844623401" y="0" width="94.64211274277594" height="8" fill="#844FBA"/>
-                    <rect mask="url(#languages-bar)" x="408.546897205116" y="0" width="28.333254381809567" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="436.8801515869256" y="0" width="10.505802936996684" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="447.38595452392224" y="0" width="7.011132164850782" height="8" fill="#7e7eff"/>
-                    <rect mask="url(#languages-bar)" x="454.3970866887731" y="0" width="5.2978446234012315" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="459.6949313121743" y="0" width="0.30506868782567503" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="189.08992660506877" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="189.08992660506877" y="0" width="125.70212108976034" height="8" fill="#f0a9f0"/>
+                    <rect mask="url(#languages-bar)" x="314.7920476948291" y="0" width="93.60941545331465" height="8" fill="#844FBA"/>
+                    <rect mask="url(#languages-bar)" x="408.4014631481437" y="0" width="28.41333935060925" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="436.81480249875295" y="0" width="10.535497969169379" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="447.35030046792235" y="0" width="7.030949383625092" height="8" fill="#7e7eff"/>
+                    <rect mask="url(#languages-bar)" x="454.38124985154747" y="0" width="5.312819172941261" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="459.6940690244887" y="0" width="0.3059309755112705" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -261,7 +261,7 @@
                             </div>
                             <small>
                                 <div>69.2 kB</div>
-                                <div>40.99%</div>
+                                <div>41.11%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -272,8 +272,8 @@
                                 HCL
                             </div>
                             <small>
-                                <div>34.7 kB</div>
-                                <div>20.57%</div>
+                                <div>34.2 kB</div>
+                                <div>20.35%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -285,7 +285,7 @@
                             </div>
                             <small>
                                 <div>3.86 kB</div>
-                                <div>2.28%</div>
+                                <div>2.29%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -311,7 +311,7 @@
                             </div>
                             <small>
                                 <div>46 kB</div>
-                                <div>27.25%</div>
+                                <div>27.33%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -323,7 +323,7 @@
                             </div>
                             <small>
                                 <div>10.4 kB</div>
-                                <div>6.16%</div>
+                                <div>6.18%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -335,7 +335,7 @@
                             </div>
                             <small>
                                 <div>2.57 kB</div>
-                                <div>1.52%</div>
+                                <div>1.53%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -2625,7 +2625,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cruft/cruft</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Allows you to maintain all the necessary cruft for packaging and building projects separate from the code you intentionally write. Built on-top of, and fully compatible with, CookieCutter.</div>
@@ -2678,7 +2678,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>microsoft/playwright</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.</div>
@@ -2731,7 +2731,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>colinhacks/zod</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">TypeScript-first schema validation with static type inference</div>
@@ -2857,7 +2857,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Oct 2024, 02:49:10 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Oct 2024, 14:46:09 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
