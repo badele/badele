@@ -2587,7 +2587,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lxc/terraform-provider-incus</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Incus provider for Terraform/OpenTofu</div>
@@ -2640,7 +2640,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>terrastruct/d2</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">D2 is a modern diagram scripting language that turns text to diagrams.</div>
@@ -2693,7 +2693,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>joakim-ribier/mockapic</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The easiest way to test your web services securely and privately using a Docker container.</div>
@@ -2746,7 +2746,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mitmproxy/mitmproxy</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.</div>
@@ -2872,7 +2872,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Nov 2024, 01:49:29 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Nov 2024, 13:45:22 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
