@@ -235,17 +235,17 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 123kb of code in 150 edited files across 70 commits over last 12 days</small>
+                <small>estimation from 132kb of code in 152 edited files across 72 commits over last 13 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="289.2046236737794" height="8" fill="#7e7eff"/>
-                    <rect mask="url(#languages-bar)" x="289.2046236737794" y="0" width="93.00230234269303" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="382.20692601647244" y="0" width="55.95642163727422" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="438.16334765374665" y="0" width="18.13533977356341" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="456.29868742731" y="0" width="3.701312572689943" height="8" fill="#844FBA"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="304.4676919086576" height="8" fill="#7e7eff"/>
+                    <rect mask="url(#languages-bar)" x="304.4676919086576" y="0" width="84.69118457597995" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="389.1588764846376" y="0" width="50.95589586192735" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="440.1147723465649" y="0" width="16.51468156617782" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="456.6294539127427" y="0" width="3.3705460872572433" height="8" fill="#844FBA"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -257,8 +257,8 @@
                                 Nix
                             </div>
                             <small>
-                                <div>52.9 kB</div>
-                                <div>62.87%</div>
+                                <div>61.2 kB</div>
+                                <div>66.19%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -270,7 +270,7 @@
                             </div>
                             <small>
                                 <div>10.2 kB</div>
-                                <div>12.16%</div>
+                                <div>11.08%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -282,7 +282,7 @@
                             </div>
                             <small>
                                 <div>678 bytes</div>
-                                <div>0.8%</div>
+                                <div>0.73%</div>
                             </small>
                         </div>
                     </section>
@@ -296,7 +296,7 @@
                             </div>
                             <small>
                                 <div>17 kB</div>
-                                <div>20.22%</div>
+                                <div>18.41%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -308,7 +308,7 @@
                             </div>
                             <small>
                                 <div>3.32 kB</div>
-                                <div>3.94%</div>
+                                <div>3.59%</div>
                             </small>
                         </div>
                     </section>
@@ -334,7 +334,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 61 commits)</small>
+                    <small class="h-details">(computed from last 62 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -403,8 +403,8 @@
                             10
                         </div>
                         <div class="entry">
-                            <span class="value">4</span>
-                            <div class="bar" style="height: 22.22222222222222px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">5</span>
+                            <div class="bar" style="height: 27.77777777777778px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             11
                         </div>
                         <div class="entry">
@@ -474,8 +474,8 @@
                         <h3>Commit activity per day of week</h3>
                         <div class="chart-bars">
                             <div class="entry">
-                                <span class="value">8</span>
-                                <div class="bar" style="height: 20px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">9</span>
+                                <div class="bar" style="height: 22.5px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 Sun
                             </div>
                             <div class="entry">
@@ -2552,7 +2552,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>GNS3/gns3-gui</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">GNS3 Graphical Network Simulator</div>
@@ -2605,7 +2605,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dgtlmoon/changedetection.io</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change notification</div>
@@ -2658,7 +2658,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zrythm/zrythm</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">a highly automated and intuitive digital audio workstation - official mirror</div>
@@ -2711,7 +2711,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>glideapps/quicktype</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Generate types and converters from JSON, Schema, and GraphQL</div>
@@ -2732,7 +2732,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        12.4k
+                                        12.5k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2837,7 +2837,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Dec 2024, 01:49:43 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Dec 2024, 13:46:17 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
