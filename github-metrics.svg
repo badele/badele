@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            687 issue comments
+                            688 issue comments
                         </div>
                     </section>
                     <section>
@@ -235,18 +235,18 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 208kb of code in 507 edited files across 148 commits over last 14 days</small>
+                <small>estimation from 191kb of code in 391 edited files across 146 commits over last 13 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="260.03559087052787" height="8" fill="#7e7eff"/>
-                    <rect mask="url(#languages-bar)" x="260.03559087052787" y="0" width="109.42454528524428" height="8" fill="#f0c040"/>
-                    <rect mask="url(#languages-bar)" x="369.46013615577215" y="0" width="59.833219525317105" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="429.2933556810893" y="0" width="20.341010201336726" height="8" fill="#844FBA"/>
-                    <rect mask="url(#languages-bar)" x="449.634365882426" y="0" width="9.13774908436278" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="458.7721149667888" y="0" width="1.2278850332112483" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="214.58211698562008" height="8" fill="#7e7eff"/>
+                    <rect mask="url(#languages-bar)" x="214.58211698562008" y="0" width="142.93869607525136" height="8" fill="#f0c040"/>
+                    <rect mask="url(#languages-bar)" x="357.52081306087143" y="0" width="62.367823548491735" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="419.8886366093632" y="0" width="26.570980646556386" height="8" fill="#844FBA"/>
+                    <rect mask="url(#languages-bar)" x="446.4596172559195" y="0" width="11.936425559519948" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="458.3960428154395" y="0" width="1.6039571845604932" height="8" fill="#89e051"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -258,8 +258,8 @@
                                 Nix
                             </div>
                             <small>
-                                <div>27.3 kB</div>
-                                <div>56.53%</div>
+                                <div>17.2 kB</div>
+                                <div>46.65%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -270,8 +270,8 @@
                                 Just
                             </div>
                             <small>
-                                <div>6.29 kB</div>
-                                <div>13.01%</div>
+                                <div>5.02 kB</div>
+                                <div>13.56%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -283,7 +283,7 @@
                             </div>
                             <small>
                                 <div>960 bytes</div>
-                                <div>1.99%</div>
+                                <div>2.59%</div>
                             </small>
                         </div>
                     </section>
@@ -297,7 +297,7 @@
                             </div>
                             <small>
                                 <div>11.5 kB</div>
-                                <div>23.79%</div>
+                                <div>31.07%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -309,7 +309,7 @@
                             </div>
                             <small>
                                 <div>2.14 kB</div>
-                                <div>4.42%</div>
+                                <div>5.78%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -321,7 +321,7 @@
                             </div>
                             <small>
                                 <div>129 bytes</div>
-                                <div>0.27%</div>
+                                <div>0.35%</div>
                             </small>
                         </div>
                     </section>
@@ -2539,7 +2539,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>OpenSignLabs/OpenSign</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🔥 The free &amp; Open Source DocuSign alternative</div>
@@ -2560,7 +2560,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        4.73k
+                                        4.74k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2592,7 +2592,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jarun/buku</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2648,7 +2648,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sebadob/rauthy</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">OpenID Connect Single Sign-On Identity &amp; Access Management</div>
@@ -2688,7 +2688,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                         </svg>
-                                        856
+                                        860
                                     </div>
                                 </div>
                             </section>
@@ -2701,7 +2701,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>OXY2DEV/markview.nvim</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A hackable markdown, Typst, latex, html(inline) &amp; YAML previewer for Neovim</div>
@@ -2735,7 +2735,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        278
+                                        279
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2826,7 +2826,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Jun 2025, 02:49:51 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Jun 2025, 14:47:06 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
