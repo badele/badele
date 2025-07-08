@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -75,7 +75,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/>
                             </svg>
-                            77 Pull requests reviewed
+                            78 Pull requests reviewed
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -235,20 +235,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 371kb of code in 581 edited files across 161 commits over last 14 days</small>
+                <small>estimation from 362kb of code in 567 edited files across 157 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="258.0676225805423" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="258.0676225805423" y="0" width="57.73408020748078" height="8" fill="#844FBA"/>
-                    <rect mask="url(#languages-bar)" x="315.8017027880231" y="0" width="46.987170629563884" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="362.78887341758696" y="0" width="36.22559284021216" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="399.0144662577991" y="0" width="20.569721835439672" height="8" fill="#7e7eff"/>
-                    <rect mask="url(#languages-bar)" x="419.58418809323877" y="0" width="18.291259659229812" height="8" fill="#f0c040"/>
-                    <rect mask="url(#languages-bar)" x="437.8754477524686" y="0" width="17.61652193322775" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="455.49196968569635" y="0" width="4.508030314303632" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="267.0221938719398" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="267.0221938719398" y="0" width="59.73736884939402" height="8" fill="#844FBA"/>
+                    <rect mask="url(#languages-bar)" x="326.75956272133385" y="0" width="48.617557134373" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="375.37711985570684" y="0" width="37.48256824230693" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="412.85968809801375" y="0" width="18.925939775201815" height="8" fill="#f0c040"/>
+                    <rect mask="url(#languages-bar)" x="431.78562787321556" y="0" width="18.227789631128612" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="450.0134175043442" y="0" width="5.322130083804412" height="8" fill="#7e7eff"/>
+                    <rect mask="url(#languages-bar)" x="455.3355475881486" y="0" width="4.6644524118513955" height="8" fill="#41b883"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -261,7 +261,7 @@
                             </div>
                             <small>
                                 <div>52.7 kB</div>
-                                <div>56.1%</div>
+                                <div>58.05%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -273,7 +273,19 @@
                             </div>
                             <small>
                                 <div>9.61 kB</div>
-                                <div>10.21%</div>
+                                <div>10.57%</div>
+                            </small>
+                        </div>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#f0c040" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                Smarty
+                            </div>
+                            <small>
+                                <div>3.74 kB</div>
+                                <div>4.11%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -284,20 +296,8 @@
                                 Nix
                             </div>
                             <small>
-                                <div>4.21 kB</div>
-                                <div>4.47%</div>
-                            </small>
-                        </div>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#89e051" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                Shell
-                            </div>
-                            <small>
-                                <div>3.60 kB</div>
-                                <div>3.83%</div>
+                                <div>1.05 kB</div>
+                                <div>1.16%</div>
                             </small>
                         </div>
                     </section>
@@ -311,7 +311,7 @@
                             </div>
                             <small>
                                 <div>11.8 kB</div>
-                                <div>12.55%</div>
+                                <div>12.99%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -323,19 +323,19 @@
                             </div>
                             <small>
                                 <div>7.41 kB</div>
-                                <div>7.88%</div>
+                                <div>8.15%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#f0c040" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#89e051" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Smarty
+                                Shell
                             </div>
                             <small>
-                                <div>3.74 kB</div>
-                                <div>3.98%</div>
+                                <div>3.60 kB</div>
+                                <div>3.96%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -347,7 +347,7 @@
                             </div>
                             <small>
                                 <div>922 bytes</div>
-                                <div>0.98%</div>
+                                <div>1.01%</div>
                             </small>
                         </div>
                     </section>
@@ -2576,7 +2576,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>numtide/treefmt</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">one CLI to format your repo [maintainers=@zimbatm,@brianmcgee]</div>
@@ -2629,7 +2629,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>clan-lol/clan-core</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Build your own darkent [read-only mirror of https://git.clan.lol/clan/clan-core]</div>
@@ -2682,7 +2682,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>harishsg993010/damn-vulnerable-MCP-server</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Damn Vulnerable MCP Server</div>
@@ -2854,7 +2854,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Jul 2025, 02:49:39 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Jul 2025, 14:47:02 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
