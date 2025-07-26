@@ -23,7 +23,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Followed by 123 users
+                            Followed by 122 users
                         </div>
                     </section>
                     <section>
@@ -235,16 +235,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 239kb of code in 191 edited files across 54 commits over last 14 days</small>
+                <small>estimation from 230kb of code in 186 edited files across 50 commits over last 13 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="428.5974643423138" height="8" fill="#7e7eff"/>
-                    <rect mask="url(#languages-bar)" x="428.5974643423138" y="0" width="23.304278922345485" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="451.9017432646593" y="0" width="6.251980982567353" height="8" fill="#844FBA"/>
-                    <rect mask="url(#languages-bar)" x="458.15372424722665" y="0" width="1.8462757527733755" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="429.5304730785623" height="8" fill="#7e7eff"/>
+                    <rect mask="url(#languages-bar)" x="429.5304730785623" y="0" width="24.024364256286404" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="453.5548373348487" y="0" width="6.4451626651513" height="8" fill="#844FBA"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -256,8 +255,8 @@
                                 Nix
                             </div>
                             <small>
-                                <div>54 kB</div>
-                                <div>93.17%</div>
+                                <div>52.5 kB</div>
+                                <div>93.38%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -269,7 +268,7 @@
                             </div>
                             <small>
                                 <div>789 bytes</div>
-                                <div>1.36%</div>
+                                <div>1.4%</div>
                             </small>
                         </div>
                     </section>
@@ -283,19 +282,7 @@
                             </div>
                             <small>
                                 <div>2.94 kB</div>
-                                <div>5.07%</div>
-                            </small>
-                        </div>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#000080" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                Lua
-                            </div>
-                            <small>
-                                <div>233 bytes</div>
-                                <div>0.4%</div>
+                                <div>5.22%</div>
                             </small>
                         </div>
                     </section>
@@ -2540,7 +2527,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>renovatebot/renovate</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io</div>
@@ -2593,7 +2580,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>marktext/marktext</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">📝A simple and elegant markdown editor, available for Linux, macOS and Windows.</div>
@@ -2646,7 +2633,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cstate/cstate</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🔥 Open source static (serverless) status page. Uses hyperfast Go &amp; Hugo, minimal HTML/CSS/JS, customizable, outstanding browser support (IE8+), preloaded CMS, read-only API, badges &amp; more.</div>
@@ -2699,7 +2686,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>roboflow/supervision</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">We write your reusable computer vision tools. 💜</div>
@@ -2720,7 +2707,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        30.1k
+                                        30.2k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2752,7 +2739,7 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v5.5a.25.25 0 01-.25.25h-3.5a.75.75 0 00-.53.22L3.5 11.44V9.25a.75.75 0 00-.75-.75h-1a.25.25 0 01-.25-.25v-5.5zM1.75 1A1.75 1.75 0 000 2.75v5.5C0 9.216.784 10 1.75 10H2v1.543a1.457 1.457 0 002.487 1.03L7.061 10h3.189A1.75 1.75 0 0012 8.25v-5.5A1.75 1.75 0 0010.25 1h-8.5zM14.5 4.75a.25.25 0 00-.25-.25h-.5a.75.75 0 110-1.5h.5c.966 0 1.75.784 1.75 1.75v5.5A1.75 1.75 0 0114.25 12H14v1.543a1.457 1.457 0 01-2.487 1.03L9.22 12.28a.75.75 0 111.06-1.06l2.22 2.22v-2.19a.75.75 0 01.75-.75h1a.25.25 0 00.25-.25v-5.5z"/>
                     </svg>
-                    Overall users reactions from last 89 comments
+                    Overall users reactions from last 90 comments
                 </h2>
                 <div class="row">
                     <section>
@@ -2824,7 +2811,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Jul 2025, 02:49:34 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Jul 2025, 14:46:46 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
